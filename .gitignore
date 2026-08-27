@@ -1,0 +1,23 @@
+# C/C++ build outputs
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.ilk
+*.out
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+.vs/
+
+# User-specific IDE files
+*.user
+*.suo
+
+# Local editor configuration
+.vscode/
